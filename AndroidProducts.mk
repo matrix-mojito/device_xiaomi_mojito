@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/infinity_mojito.mk
+    $(LOCAL_DIR)/matrixx_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    infinity_mojito-user \
-    infinity_mojito-userdebug \
-    infinity_mojito-eng
+    matrixx_mojito-user \
+    matrixx_mojito-userdebug \
+    matrixx_mojito-eng
